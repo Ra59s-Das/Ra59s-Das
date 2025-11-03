@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raunak!
+<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Raunak</span>!</h1>
 
 <!--
 **Ra59s-Das/Ra59s-Das** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
