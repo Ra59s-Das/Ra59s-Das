@@ -52,12 +52,6 @@ class RaunakDas:
     languages  = ["Python", "SQL", "Java", "TypeScript"]
     stack      = ["FastAPI", "Django", "Selenium", "Playwright",
                   "Pandas", "Scikit-learn", "Power BI", "AWS"]
-    highlights = {
-        "records_processed" : "2.5M+  in production",
-        "ml_accuracy"       : "98%  ROC-AUC  (fraud detection)",
-        "efficiency_gain"   : "+30%  via automation",
-        "dashboards_built"  : "10+  Power BI  dashboards",
-    }
     status     = "🟢  Open to Work  —  Full-time / Internship / Freelance"
 ```
 
@@ -80,6 +74,7 @@ class RaunakDas:
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb"    width="40"/><br/><sub><b>MongoDB</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql"      width="40"/><br/><sub><b>MySQL</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws"        width="40"/><br/><sub><b>AWS</b></sub></td>
+     <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40"/><br/><sub><b>Playwright</b></sub></td>
   </tr>
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=selenium"   width="40"/><br/><sub><b>Selenium</b></sub></td>
@@ -91,6 +86,7 @@ class RaunakDas:
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css"        width="40"/><br/><sub><b>CSS</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind"   width="40"/><br/><sub><b>Tailwind</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker"     width="40"/><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=anaconda"   width="40"/><br/><sub><b>Anaconda</b></sub></td>
   </tr>
 </table>
 
@@ -102,7 +98,7 @@ class RaunakDas:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-111820?style=flat-square&logo=python&logoColor=7aafc4)
 ![Seaborn](https://img.shields.io/badge/Seaborn-111820?style=flat-square&logo=python&logoColor=7aafc4)
 ![Power BI](https://img.shields.io/badge/Power_BI-111820?style=flat-square&logo=powerbi&logoColor=F2C811)
-![Playwright](https://img.shields.io/badge/Playwright-111820?style=flat-square&logo=playwright&logoColor=7aafc4)
+![Puppyteer](https://img.shields.io/badge/Puppeteer-1a2228?style=flat-square&logo=puppeteer&logoColor=7aafc4)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-111820?style=flat-square&logo=python&logoColor=7aafc4)
 ![Asyncio](https://img.shields.io/badge/Asyncio-111820?style=flat-square&logo=python&logoColor=7aafc4)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-111820?style=flat-square&logo=ibm&logoColor=7aafc4)
