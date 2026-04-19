@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ra59s-Das/Ra59s-Das/main/tokyo_header.svg" width="100%"/>
+  <img src="https://github.com/Ra59s-Das/Ra59s-Das/blob/38965ea735114e30d7d081a3e266167eb11d688a/tokyo_header%20(1).png" width="100%"/>
 </div>
 
 <div align="center">
