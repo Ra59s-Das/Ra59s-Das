@@ -89,7 +89,6 @@ class RaunakDas:
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=anaconda"   width="40"/><br/><sub><b>Anaconda</b></sub></td>
   </tr>
 </table>
-
 <br/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-111820?style=flat-square&logo=pandas&logoColor=7aafc4)
@@ -123,14 +122,6 @@ class RaunakDas:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ra59s-Das&bg_color=0d1117&color=7aafc4&line=36454f&point=7aafc4&area=true&area_color=1e2a34&hide_border=false&border_color=36454f&title_color=7aafc4&radius=4" width="96%"/>
 
-</div>
-
----
-
-<!-- ═══ TROPHIES ═══ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ra59s-Das&theme=darkhub&column=7&margin-w=6&margin-h=6&no-bg=true" width="96%"/>
 </div>
 
 ---
